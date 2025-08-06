@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Manchester United",
+        "country": "England",
+        "founded": 1878,
+        "stadium": "Old Trafford"
+    },
+    {
+        "id": 2,
+        "name": "Real Madrid",
+        "country": "Spain",
+        "founded": 1902,
+        "stadium": "Santiago Bernabéu"
+    },
+    {
+        "id": 3,
+        "name": "Bayern Munich",
+        "country": "Germany",
+        "founded": 1900,
+        "stadium": "Allianz Arena"
+    },
+     {
+    "id": 4,
+    "name": "Paris Saint-Germain",
+    "country": "France",
+    "founded": 1970,
+    "stadium": "Parc des Princes"
+  },
+  {
+    "id": 5,
+    "name": "Internazionale",
+    "country": "Italy",
+    "founded": 1908,
+    "stadium": "Giuseppe Meazza"
+  }
+]
